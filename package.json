@@ -15,7 +15,7 @@
   "author": "Valchan",
   "dependencies": {
     "express": "^4.16.2",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-sequence": "^5.1.0"
   },
