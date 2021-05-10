@@ -20,7 +20,7 @@
     "mongoose-sequence": "^5.1.0"
   },
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nodemon": "^1.14.11"
   }
 }
